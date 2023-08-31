@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **https://t.me/forjmail**
 
-- 📄 Know about my experiences [https://github.com/121212/](https://github.com/forjmail/)
+- 📄 Know about my experiences [https://github.com/forjmail/](https://github.com/forjmail/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
