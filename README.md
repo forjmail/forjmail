@@ -1,21 +1,21 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif)](https://github.com/forjmail/)
 
-<h1 align="center">Hi 👋, I'm R G</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Привет 👋, я Раду</h1>
+<h3 align="center">Увлеченный fullstack разработчик</h3>
 
-- 💬 Ask me about **PERN or JS**
+- 💬 Можешь спросить меня про **PERN или JS**
 
-- 📫 How to reach me **https://t.me/forjmail**
+- 📫 Связаться со мной можно **https://t.me/forjmail**
 
-- 📄 Know about my experiences [https://github.com/forjmail/](https://github.com/forjmail/)
+- 📄 Подробнее о моем опыте [https://github.com/forjmail/](https://github.com/forjmail/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Еще:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/forjmail" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="forjmail" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/forjmail" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="forjmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и инструменты:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -30,3 +30,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Для примеров кода и возможных реализаций смотри репозитории</h3>
+
+- используем менеджер состояний Context [Case React Context](https://github.com/forjmail/case_react_context)
+
+- используем менеджер состояний Redux Tool Kit [Case on React and Redux Tool Kit](https://github.com/forjmail/case_react_redux)
