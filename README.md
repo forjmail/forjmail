@@ -38,3 +38,5 @@
 - используем менеджер состояний Redux Tool Kit [Case on React and Redux Tool Kit](https://github.com/forjmail/case_react_redux)
 
 - используем фильтрацию, Redux и Jest в [ToDo-приложении](https://github.com/forjmail/todos)
+
+- Используем Vite + React + TS, для бэка Node.js + Express + CORS в [SPA приложении](https://github.com/forjmail/filter_json)
