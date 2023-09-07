@@ -36,3 +36,5 @@
 - используем менеджер состояний Context [Case React Context](https://github.com/forjmail/case_react_context)
 
 - используем менеджер состояний Redux Tool Kit [Case on React and Redux Tool Kit](https://github.com/forjmail/case_react_redux)
+
+- используем фильтрацию, Redux и Jest в [ToDo-приложении](https://github.com/forjmail/todos)
