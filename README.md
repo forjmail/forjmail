@@ -33,10 +33,6 @@
 
 <h3 align="left">Для примеров кода и возможных реализаций смотри репозитории</h3>
 
-- используем менеджер состояний Context [Case React Context](https://github.com/forjmail/case_react_context)
+- переписанная на TS Todo MVC на VUE(без мнеджера состояния) [TODO MVC on Vue](https://github.com/forjmail/todo_mvc_vue)
 
-- используем менеджер состояний Redux Tool Kit [Case on React and Redux Tool Kit](https://github.com/forjmail/case_react_redux)
-
-- используем фильтрацию, Redux и Jest в [ToDo-приложении](https://github.com/forjmail/todos)
-
-- Используем Vite + React + TS, для бэка Node.js + Express + CORS в [SPA приложении](https://github.com/forjmail/filter_json)
+- переписанная на TS Todo MVC на React(состояние храним в Contex) [TODO MVC on React](https://github.com/forjmail/todo_mvc_react)
